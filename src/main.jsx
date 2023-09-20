@@ -14,6 +14,8 @@
 //   ]
 // }
 
+// Check documentation here https://github.com/JamesBrill/react-speech-recognition/blob/master/docs/API.md
+
 // add this line
 import 'core-js/actual';
 import 'regenerator-runtime/runtime';
