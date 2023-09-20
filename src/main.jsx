@@ -1,3 +1,20 @@
+// yarn add core-js
+// yarn add regenerator-runtime
+
+// create .babelrc file in root folder
+// 
+// .babelrc file
+// {
+//   "plugins": [
+//     ["@babel/plugin-transform-runtime",
+//       {
+//         "regenerator": true
+//       }
+//     ]
+//   ]
+// }
+
+// add this line
 import 'core-js/actual';
 import 'regenerator-runtime/runtime';
 
